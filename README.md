@@ -31,9 +31,11 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569755&isnumber=85
 ## 准备你的url文件 ##
 在相应的会议页面导出url信息，粘贴为一个新的url文件。
 
+![](./figure/2.jpg)
 
 
 ## 运行 ##
-将python文件与url文件放置在同一个目录下面，运行python文件即可， 需要连接可用于下载的网络，
+将python文件与url文件放置在同一个目录下面，运行python文件即可， **需要连接可于下载的网络**。
 论文下载完成，如下：
 
+![](./figure/1.jpg)
