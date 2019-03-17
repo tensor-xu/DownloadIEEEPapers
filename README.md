@@ -2,7 +2,7 @@
 "# DownLoadIEEEPaper" 
 
 
-该项目用于自动下载IEEE会议论文，并非免费下载论文，需要使用者拥有IEEE账户或者使用学校免费提供的具有下载功能的校园网。
+该项目用于自动下载IEEE会议论文，并非免费下载论文，需要使用者拥有IEEE账户或者使用大学免费提供的具有下载权限的网络。
 以下说明以IEEE ITSC2018 会议论文下载为例。
 
 
@@ -35,7 +35,7 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569755&isnumber=85
 
 
 ## 运行 ##
-将python文件与url文件放置在同一个目录下面，运行python文件即可， **需要连接可于下载的网络**。
+将python文件与url文件放置在同一个目录下面，运行python文件即可， **需要连接有下载权限的网络**。
 论文下载完成，如下：
 
 ![](./figure/1.jpg)
