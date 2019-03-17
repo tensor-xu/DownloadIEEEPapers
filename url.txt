@@ -1,0 +1,291 @@
+A. Ghazizadeh and P. Ghazizadeh, "Design and Analysis of a Communication Protocol for Dynamic Vehicular Clouds in Smart Cities," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 1-6.
+doi: 10.1109/ITSC.2018.8569990
+keywords: {cloud computing;Internet of Things;protocols;public administration;smart cities;vehicular ad hoc networks;Internet of Things;city infrastructure interconnectivity;vehicle-to-infrastructure communication protocol;V2I communication protocol;dynamic Vehicular Cloud Computing system;vehicle-to-infrastructure;smart cities;Cloud computing;Virtualization;Virtual machine monitors;Smart cities;Containers;Vehicle dynamics},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569990&isnumber=8569013
+
+M. Lu, R. Blokpoel, M. F¨¹nfrocken and J. Castells, "Open architecture for internet-based C-ITS services," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 7-13.
+doi: 10.1109/ITSC.2018.8569941
+keywords: {intelligent transportation systems;mobile radio;vehicular ad hoc networks;wireless LAN;short-range ad-hoc local network;IEEE 802.11p standard;cellular network;substantial standardisation efforts;cellular solutions;vehicular communication;open broker-centric architecture;scalable broker-centric architecture;short-range communication;infrastructure server;information broker;transport layer security;open architecture;Cooperative Intelligent Transport Systems;Internet-based C-ITS services;Europe;Standards;Roads;Interoperability;Protocols;Security;Virtual private networks;C-ITS;architecture;interoperability;security;privacy;road transport},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569941&isnumber=8569013
+
+A. Stevanovic and N. Mitrovic, "Combined Alternate-Direction Lane Assignment and Reservation-based Intersection Control," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 14-19.
+doi: 10.1109/ITSC.2018.8569755
+keywords: {road traffic;road traffic control;scheduling;traffic engineering computing;traffic flows;urban networks;urban intersections;urban traffic systems;recent conflict resolution concepts;fundamentally different approach;directional driving paths;reservation-based algorithm;three-intersection corridor;conflicting situations;fully reservation-based intersection control;CADLARIC;combined alternate-direction lane assignment and reservation-based intersection control;FR-BIC;Roads;Computational modeling;Tools;Delays;Geometry;Vehicle dynamics;Automobiles;traffic control;simulation;scheduling;conflict resolution;alternate directional driving},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569755&isnumber=8569013
+
+Z. Yu, V. V. Gayah and E. Christofa, "Implementing phase rotation in a person-based signal timing optimization framework," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 20-25.
+doi: 10.1109/ITSC.2018.8569671
+keywords: {delays;mathematical programming;road traffic control;transportation;transit vehicles;mathematical programming framework;bus passenger delay;car passenger delay;total passenger delay;traffic-responsive frameworks;phase rotation;person-based traffic signal timing optimization framework;preassigned background phase sequence;Delays;Automobiles;Optimization;Real-time systems;Discharges (electric);Linear programming;person-based signal timing optimization;real-time signal control;phase rotation},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569671&isnumber=8569013
+
+N. Karamanov, D. Andreev, M. Pfeifle, H. Bock, M. Otto and M. Schulze, "Map Line Interface for Autonomous Driving," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 26-33.
+doi: 10.1109/ITSC.2018.8569378
+keywords: {cameras;control engineering computing;covariance matrices;driver information systems;Gaussian processes;information retrieval;mobile robots;object detection;optical radar;position control;road vehicles;sensor fusion;traffic engineering computing;map line interface;autonomously driving vehicle;HD map information;speed limits;lateral control;lane fusion module;mean values;heading information;vehicle position;covariance matrices;ADAS perception system;gaussian ego position;information retrieval;data structure;bandwidth point;positional information;cameras;LiDARs;sensors information;Automobiles;Uncertainty;Autonomous vehicles;Sensors;Cameras;Covariance matrices;Roads;interfaces;uncertainty;lane fusion;lane detection;lanes in HD maps},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569378&isnumber=8569013
+
+K. Koh, C. Ng, D. Pan and K. S. Mak, "Dynamic Bus Routing: A study on the viability of on-demand high-capacity ridesharing as an alternative to fixed-route buses in Singapore," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 34-40.
+doi: 10.1109/ITSC.2018.8569834
+keywords: {road vehicles;transportation;on-demand high-capacity ridesharing;fixed-route buses;Singapore;mobility-on-demand ridesharing services;transportation landscape;point-to-point transportation;private vehicles;taxi equivalents;high-capacity buses;population-dense environment;modified insertion algorithm;dynamic routing;dynamically routed buses;mass transport;present-day fixed-route services;transport mode;wider public transportation network;dynamic bus routing;Vehicle dynamics;Routing;Public transportation;Distributed Bragg reflectors;Strategic planning;Heuristic algorithms;Ridesharing;personalized public transit;simulation and modelling},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569834&isnumber=8569013
+
+M. Rinaldi, F. Parisi, G. Laskaris, A. D'Ariano and F. Viti, "Optimal dispatching of electric and hybrid buses subject to scheduling and charging constraints," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 41-46.
+doi: 10.1109/ITSC.2018.8569706
+keywords: {electric vehicles;integer programming;scheduling;sensitivity analysis;transportation;electric bus charging status;bus recharging scheduling;capacitated facilities;total operational cost;bus lines;system dynamics;scheduling adherence;discharge-recharge dynamics;individual operational costs;bus level;charging stations;optimal dispatching;electric buses subject;hybrid buses subject;charging constraints;multiline bus terminal;energy constraints;mixed integer linear program;central stations bus terminal;lines timetable;trip level;Charging stations;Batteries;Dispatching;Urban areas;Schedules;Sensitivity analysis;Minimization;Electric Public Transport;Optimal dispatching;Mixed Integer Linear Programming},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569706&isnumber=8569013
+
+H. Mirzaei, G. Sharon, S. Boyles, T. Givargis and P. Stone, "Enhanced Delta-tolling: Traffic Optimization via Policy Gradient Reinforcement Learning," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 47-52.
+doi: 10.1109/ITSC.2018.8569737
+keywords: {gradient methods;learning (artificial intelligence);network theory (graphs);optimisation;road pricing (tolls);road traffic;toll value;policy gradient reinforcement learning algorithm;traffic optimization;centralized system manager;microtolling;toll values;delta-tolling;travel time;System performance;Optimization;Computer science;Delays;Finite difference methods;Real-time systems},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569737&isnumber=8569013
+
+M. Strano, F. Novak, S. Walbert, B. Palmeiro, S. Morales and I. Alvarez, "¡°Peace of Mind¡±, An Experiential Safety Framework for Automated Driving Technology Interactions," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 53-59.
+doi: 10.1109/ITSC.2018.8569686
+keywords: {driver information systems;road safety;road traffic;road vehicles;automated driving systems;automated driving technologies;automation feedback;autonomous vehicles;experiential automation safety;user-centered research;experiential safety design model;automated driving environments;experiential safety interactions;functional safety standards;fully automated vehicles;automated driving technology interactions;experiential safety framework;Safety;Automation;Interviews;Automobiles;Guidelines;Task analysis;Automated Driving;Experiential Safety;User experience design;design research;design theory;design science;methodology design;emerging technology},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569686&isnumber=8569013
+
+P. Junietz, F. Bonakdar, B. Klamann and H. Winner, "Criticality Metric for the Safety Validation of Automated Driving using Model Predictive Trajectory Optimization," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 60-65.
+doi: 10.1109/ITSC.2018.8569326
+keywords: {optimisation;predictive control;road safety;road traffic control;road vehicles;criticality metric;safety validation;automated driving;model predictive trajectory optimization;validation process;critical situations;test drives;safety surrogate;driving requirements;model predictive control;driving task;simplified driving dynamics model;minimal criticality;AD system;longitudinal traffic;highway traffic;Measurement;Safety;Accidents;Trajectory;Optimization;Linear programming;Automotive engineering;Safety Validation;Metric;Automated Driving;MPC},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569326&isnumber=8569013
+
+X. Liang, S. I. Guler and V. V. Gayah, "A Scalable and Computationally Efficient Connected Vehicle-Based Signal Control Algorithm," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 66-71.
+doi: 10.1109/ITSC.2018.8569312
+keywords: {genetic algorithms;road traffic control;road vehicles;vehicle delay;computation time;car delays;final signal timings;computational effort;traffic conditions;phase sequence;phasing plans;timing plans;optimal signal phase;modified genetic algorithm;connected vehicles;scalable traffic signal control algorithm;Biological cells;Genetic algorithms;Delays;Automobiles;Optimization;Discharges (electric);connected vehicles;traffic signal control;genetic algorithm},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569312&isnumber=8569013
+
+M. Sam¨¤, A. D'Ariano, D. Pacciarelli, P. Pellegrini and J. Rodriguez, "Applications of train routing selection methods for real-time railway traffic management," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 72-77.
+doi: 10.1109/ITSC.2018.8569555
+keywords: {graph theory;integer programming;linear programming;rail traffic;railway engineering;rtRTMP model;ant colony optimization;real-time disturbance response strategies;alternative graph model;AGLIBRARY solver;solution approach;objective function;RECIFE-MILP solver;computational analysis;feasible routing subset;rtTRSP;real-time train routing selection problem;routing alternatives;traffic disturbances;time-overlapping conflicting track requests;real-time railway traffic management problem;train routing selection methods;Routing;Delays;Real-time systems;Computational modeling;Rail transportation;Analytical models;Linear programming;Public Transport;Train Rescheduling;Ant Colony Optimization;Mixed-Integer Linear Programming},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569555&isnumber=8569013
+
+E. Jenelius, "Car-Specific Metro Train Crowding Prediction Based on Real-Time Load Data," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 78-83.
+doi: 10.1109/ITSC.2018.8569599
+keywords: {data handling;decision trees;learning (artificial intelligence);railway safety;railways;regression analysis;transportation;boosted tree ensembles;lasso;stepwise regression;predefined discrete crowding levels;Sweden;Stockholm;car-specific metro train crowding prediction;absolute passenger loads;prediction accuracy;real-time load data;Automobiles;Predictive models;Regression tree analysis;Load modeling;Real-time systems;Data models;Indexes},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569599&isnumber=8569013
+
+Z. He, Y. Chen, L. Sun, J. Zhong and Y. Zhu, "Identifying Station-Link Correlation for Target Passenger Flow Control in Subway Network," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 84-89.
+doi: 10.1109/ITSC.2018.8569533
+keywords: {flow control;rail traffic;railways;transportation;target passenger flow control;subway system;station flow;link flow;coordinated-based passenger flow control method;target control stations;subway network;station-link correlation;Guangzhou;Public transportation;Correlation;Urban areas;Mathematical model;Focusing;Microscopy;Subway system;Crowding problem;Passenger flow control;Passenger flow correlation;Irrelevant passengers},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569533&isnumber=8569013
+
+P. Nitsche, R. H. Welsh, A. Genser and P. D. Thomas, "A novel, modular validation framework for collision avoidance of automated vehicles at road junctions," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 90-97.
+doi: 10.1109/ITSC.2018.8569631
+keywords: {automobiles;collision avoidance;intelligent transportation systems;pattern clustering;program verification;road accidents;road safety;road traffic;safety-critical software;virtualisation;car-to-car collision scenario;accident data;safety-critical testing;automated transport;virtual tests;safety performance indicators;critical traffic scenarios;automated driving systems;road junctions;automated vehicles;collision avoidance;modular validation framework;Junctions;Roads;Safety;Accidents;Computer crashes;Testing;Data models},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569631&isnumber=8569013
+
+B. Kim, C. Lin, E. Kang, N. Tomatsu and S. Shiraishi, "Platform-Independent QoS Parameters and Primitive APIs for Automotive Software," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 98-104.
+doi: 10.1109/ITSC.2018.8569481
+keywords: {adaptive control;application program interfaces;intelligent transportation systems;quality of service;velocity control;platform-independent QoS parameters;automotive software;Intelligent Transportation System;autonomous driving;road-side infrastructures;platform-independent way;QoS requirements;multimode ACC application;RC-car platform;APIs;operational safety;automotive domain-specific QoS parameters;quality of service;adaptive cruise control;Quality of service;Sensors;Software;Actuators;Market research;Automotive applications},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569481&isnumber=8569013
+
+A. Amodio and S. M. Savaresi, "A Dual-Level Lane Departure Avoidance System Based on Differential Torque," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 105-110.
+doi: 10.1109/ITSC.2018.8569566
+keywords: {compensation;control system synthesis;H¡Þ control;position control;road safety;road vehicles;stability;steering systems;velocity control;wheels;dual-level lane departure avoidance system;differential torque;unintentional maneuver;intentional maneuver;high-level supervisor controls closure;lateral position control loop;4-conditions switching rule;low-level controller;vehicle lateral position;control input;H¡Þ framework;system stabilization;wheels;gain-scheduling term;speed variations compensation;steering angle;Vehicles;Torque;Wheels;Position control;Roads},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569566&isnumber=8569013
+
+M. Ornik, M. S. Moura, A. Peplowski and M. E. Broucke, "Adaptive Cruise Control Design Using Reach Control," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 111-116.
+doi: 10.1109/ITSC.2018.8569963
+keywords: {adaptive control;closed loop systems;control system synthesis;feedback;road traffic control;state-space methods;velocity safety requirements;ACC problem statement;ACC requirements;adaptive cruise control design;correct-by-construction synthesis;piecewise affine feedback controllers;strict safety specifications;adaptive cruise control problem;design methodology;reach control problem;polytope;2D state space;headway requirements;Lead;Aerospace electronics;Trajectory;Control theory;Automobiles;Vehicle dynamics},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569963&isnumber=8569013
+
+N. Williams, G. Wu, K. Boriboonsomsin, M. Barth, S. Rajab and S. Bai, "Anticipatory Lane Change Warning using Vehicle-to-Vehicle Communications," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 117-122.
+doi: 10.1109/ITSC.2018.8569910
+keywords: {road safety;road traffic;road vehicles;traffic engineering computing;anticipatory lane change warning;automated lane changing systems;on-board sensors;wireless communication;DSRC;line-of-sight limitation;microscopic traffic simulator VISSIM;rush hour traffic data;vehicle-to-vehicle communications;connected vehicle technology;dedicated short range communications;surrogate safety assessment model;freeway network;SSAM;Prediction algorithms;Radar;Safety;Sensors;Predictive models;Distance measurement;Traffic control;V2X;lane change;automated vehicles;connected vehicles;ADAS},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569910&isnumber=8569013
+
+D. Jeong et al., "Real-time Driver Identification using Vehicular Big Data and Deep Learning," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 123-130.
+doi: 10.1109/ITSC.2018.8569452
+keywords: {Big Data;controller area networks;convolution;driver information systems;feedforward neural nets;learning (artificial intelligence);real-time driver identification;vehicular big data;driver identification system;deep learning technology;controller area network data;convolutional neural network;Vehicles;Sensors;Acceleration;Training;Data preprocessing;Two dimensional displays},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569452&isnumber=8569013
+
+C. Wissing, T. Nattermann, K. Glander and T. Bertram, "Trajectory Prediction for Safety Critical Maneuvers in Automated Highway Driving," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 131-136.
+doi: 10.1109/ITSC.2018.8569296
+keywords: {driver information systems;probability;road safety;road traffic;road vehicles;safety-critical software;NGSIM data set;maneuver prediction;lane change trajectories;safety critical maneuvers;automated highway driving;automated vehicles;safe driving;comfortable driving;traffic participants;novel trajectory prediction approach;maneuver classification;probabilistic estimation;trajectory representation;probabilistic time-to-lane-change estimation;lane marking crossing;critical lane change maneuvers;Trajectory;Estimation;Safety;Predictive models;Probabilistic logic;Hidden Markov models;Computational modeling},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569296&isnumber=8569013
+
+C. Wissing, T. Nattermann, K. Glander and T. Bertram, "Interaction-Aware Long-term Driving Situation Prediction," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 137-143.
+doi: 10.1109/ITSC.2018.8570002
+keywords: {driver information systems;learning (artificial intelligence);Monte Carlo methods;pattern classification;road vehicles;sensors;interaction-aware long-term;situation prediction;current traffic situation;future evolution;safe actions;comfortable actions;long-term predictions;traffic participants;interaction-based trajectory prediction;on-board perception systems;probabilistic manner;maneuver decisions;maneuver execution;probabilistic model;interaction-aware model;maneuver classification algorithm;short-term maneuver;interaction-based prediction;Monte Carlo simulation-based approach;Trajectory;Predictive models;Acceleration;Vehicles;Computational modeling;Uncertainty;Monte Carlo methods},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8570002&isnumber=8569013
+
+O. T. Faboya, G. P. Figueredo, B. Ryan and P. Siebers, "Position Paper: The Usefulness of Data-driven, Intelligent Agent-Based Modelling for Transport Infrastructure Management," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 144-149.
+doi: 10.1109/ITSC.2018.8569946
+keywords: {behavioural sciences computing;cognitive systems;human factors;intelligent transportation systems;knowledge acquisition;knowledge representation;roads;transportation;road deterioration;data-driven modelling;cognitive work analysis;computational intelligence;knowledge representation;transport pathway infrastructures;traveller mode choice;knowledge extraction;emergent behaviour;individual behaviour;transport network;mobility usage;human factors;behavioural changes;motor vehicles;transport infrastructure management;intelligent agent-based modelling;infrastructural maintenance;Adaptation models;Computational modeling;Human factors;Maintenance engineering;Computational intelligence;Data mining;Roads},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569946&isnumber=8569013
+
+D. Rengasamy, H. P. Morvan and G. P. Figueredo, "Deep Learning Approaches to Aircraft Maintenance, Repair and Overhaul: A Review," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 150-156.
+doi: 10.1109/ITSC.2018.8569502
+keywords: {aerospace engineering;aircraft maintenance;belief networks;convolution;data analysis;feedforward neural nets;learning (artificial intelligence);sensor technology;data-driven solutions;deep learning architectures;aircraft MRO;deep autoencoders;deep learning approaches;aircrafts status data;aerospace engineering;aircraft maintenance repair and overhaul;aircraft health data analysis;deep belief networks;long short-term memory;convolutional neural networks;Aircraft;Maintenance engineering;Fault diagnosis;Engines;Aerospace electronics;Temperature measurement},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569502&isnumber=8569013
+
+A. Haydari and Y. Yilmaz, "Real-Time Detection and Mitigation of DDoS Attacks in Intelligent Transportation Systems," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 157-163.
+doi: 10.1109/ITSC.2018.8569698
+keywords: {computer network security;intelligent transportation systems;vehicular ad hoc networks;secure communication concerns;VANET;Intelligent Transportation Systems;nonparametric statistical anomaly detection;RSU availability;average detection delay;vehicular network;ad-hoc network;communication infrastructure;road side units;Distributed Denial of Service attack;low-rate DDoS attacks;real-time detection;DDoS attacks;data filtering techniques;cumulative sum test;CUSUM test;SUMO traffic simulation software;Computer crime;Vehicular ad hoc networks;Roads;Anomaly detection;Safety;Accidents},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569698&isnumber=8569013
+
+H. Zhan, G. Gomes, X. S. Li, K. Madduri and K. Wu, "Efficient Online Hyperparameter Learning for Traffic Flow Prediction," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 164-169.
+doi: 10.1109/ITSC.2018.8569972
+keywords: {learning (artificial intelligence);traffic engineering computing;machine learning;online hyperparameter learning;traffic measurement data;kernel-based traffic prediction models;data distribution;traffic measurements;traffic flow prediction models;Kernel;Computational modeling;Tuning;Prediction algorithms;Predictive models;Training;Adaptation models},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569972&isnumber=8569013
+
+G. Yu, W. Zheng, L. Wang and Z. Zhang, "Identification of Significant Factors Contributing to Multi-attribute Railway Accidents Dataset (MARA-D) Using SOM Data Mining," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 170-175.
+doi: 10.1109/ITSC.2018.8569336
+keywords: {data mining;error analysis;railway accidents;railway engineering;self-organising feature maps;railway accident reports;multiattribute railway accidents dataset;self-organizing maps;2-dimensional maps;health management;cognitive reliability;error analysis method;CREAM-RA;organization factors;SOM data mining;MARA-D;related railway departments;key accident causes;Railway accidents;Rail transportation;Taxonomy;Self-organizing feature maps;Data mining;Safety;railway safety;significant factors;CREAM-RAs;MARA-D;SOM;data mining},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569336&isnumber=8569013
+
+P. Wolf, A. Mrowca, T. T. Nguyen, B. B?ker and S. G¨¹nnemann, "Pre-ignition Detection Using Deep Neural Networks: A Step Towards Data-driven Automotive Diagnostics," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 176-183.
+doi: 10.1109/ITSC.2018.8569908
+keywords: {automotive engineering;condition monitoring;convolution;data handling;fault diagnosis;feedforward neural nets;ignition;internal combustion engines;learning (artificial intelligence);recurrent neural nets;deep neural networks;in-vehicle data;data-driven automotive diagnostics approach;data-driven algorithms;pre-ignition detection;fault detection approaches;data-driven diagnostics process;automotive technology;convolutional neural networks;long short-term memory neural networks;internal engine control unit signals;high-pressure turbocharged petrol engines;machine learning processing pipeline;Fault detection;Automotive engineering;Data models;Sensors;Training;Numerical models;Feature extraction},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569908&isnumber=8569013
+
+C. Zheng et al., "A Data-driven Approach for Remaining Useful Life Prediction of Aircraft Engines," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 184-189.
+doi: 10.1109/ITSC.2018.8569915
+keywords: {aircraft maintenance;condition monitoring;jet engines;learning (artificial intelligence);remaining life assessment;time series;aircraft operation safety;extreme learning machine;aircraft engines time series data;sliding time window;turbofan data;data-driven approach;maintenance decision;time series monitoring data;remaining useful life prediction;Engines;Sensors;Training;Aircraft propulsion;Monitoring;Testing;Time series analysis;Time Window;Extreme Learning Machine;RUL Estimation;Turbofan dataset},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569915&isnumber=8569013
+
+A. Rangesh et al., "Exploring the Situational Awareness of Humans inside Autonomous Vehicles," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 190-197.
+doi: 10.1109/ITSC.2018.8570001
+keywords: {human-robot interaction;mobile robots;road safety;road vehicles;occupant-vehicle interaction;control transitions;vehicle states;vehicle platform;sensors;driver state;situational awareness;autonomous vehicles;commercial vehicles;high level cues;Vehicles;Cameras;Brain modeling;Electroencephalography;Sensor phenomena and characterization;Face},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8570001&isnumber=8569013
+
+N. Monot, X. Moreau, A. Benine-Neto, A. Rizzo and F. Aioun, "Comparison of rule-based and machine learning methods for lane change detection," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 198-203.
+doi: 10.1109/ITSC.2018.8569763
+keywords: {learning (artificial intelligence);neural nets;object detection;probability;road safety;road vehicles;traffic engineering computing;machine learning methods;lane change detection;ego vehicle;lane probabilities;vehicle distance;transverse speed;neural network;vehicle input;open road data records;autonomous vehicle prototype;rule-based method;Neural networks;Hidden Markov models;Kalman filters;Trajectory;Roads;Predictive models},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569763&isnumber=8569013
+
+T. Misu and Y. Chen, "Toward Reasoning of Driving Behavior," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 204-209.
+doi: 10.1109/ITSC.2018.8569250
+keywords: {behavioural sciences computing;controller area networks;decision making;driver information systems;learning (artificial intelligence);object detection;road safety;road traffic;road vehicles;causal reasoning;real-life environments;complex driving behaviors;baseline event detection algorithm;performance behavior detection;traffic environment;decision making;situation understanding;human drivers;intelligent automated driving system;controller area network data;Honda research institute driving dataset;driver behavior learning;Vehicles;Sensors;Cognition;Event detection;Task analysis;Cameras;Feature extraction;Driving dataset;reasoning of driving behavior;maneuver detection},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569250&isnumber=8569013
+
+X. Wang et al., "Human-Like Maneuver Decision Using LSTM-CRF Model for On-Road Self-Driving," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 210-216.
+doi: 10.1109/ITSC.2018.8569524
+keywords: {decision making;learning (artificial intelligence);mobile robots;recurrent neural nets;road traffic control;road vehicles;time series;traffic engineering computing;vectors;on-road self-driving;driving maneuvers;human drivers;LSTM-CRF model;self-driving vehicles;urban traffic;conditional random field model;long short term memory neural network;human-like maneuver decision method;time-series vector;Vehicles;Labeling;Neural networks;Size measurement;History;Face;Feature extraction},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569524&isnumber=8569013
+
+H. F. Catal¨¢n, H. Lobel and J. C. Herrera, "Classifying Drivers' Behavior in Public Transport using Inertial Measurement Units and Decision Trees," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 217-222.
+doi: 10.1109/ITSC.2018.8569404
+keywords: {behavioural sciences;customer services;data analysis;decision trees;pattern classification;public transport;traffic engineering computing;public transport;inertial measurement units;decision trees;Passenger Service Quality Index;quality of service;Santiago public transit system;bus companies;bus driver behavior classification;Decision trees;Acceleration;Indexes;Training;Data models;Measurement units},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569404&isnumber=8569013
+
+A. Telpaz, M. Baltaxe, R. M. Hecht, G. Cohen-Lazry, A. Degani and G. Kamhi, "An Approach for Measurement of Passenger Comfort: Real-Time Classification based on In-Cabin and Exterior Data," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 223-229.
+doi: 10.1109/ITSC.2018.8569653
+keywords: {bicycles;control engineering computing;data analysis;human factors;image classification;mobile robots;road vehicles;traffic engineering computing;transportation;passenger discomfort;real-time classification;exterior data;user experience;autonomous vehicles;user acceptance;human driven vehicles;vehicle dynamics;image data processing;passenger comfort measurement;in-cabin;Autonomous vehicles;Real-time systems;Roads;Vehicle dynamics;Synchronization;Potentiometers;Discomfort;Acceptance;Measurement of Discomfort;On-the-Road User Studies;Machine Learning;Data Analytics for HMI;Computational Model},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569653&isnumber=8569013
+
+M. Nishigaki, R. Mose, O. Takahata, H. Imafuku and H. Aoygai, "Quantitative evaluation on mental worklosd reduction for hands free driving," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 230-235.
+doi: 10.1109/ITSC.2018.8569638
+keywords: {driver information systems;human factors;hands free driving;manual driving;mental workload reduction;words stress level;steering wheel system;ADAS systems;quantitative evaluation;advanced driver assistance systems;Stress;Task analysis;Safety;Heart rate;Automobiles;Stress measurement},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569638&isnumber=8569013
+
+W. Yao, Y. Ding, F. Xu and S. Jin, "Analysis of cars' commuting behavior under license plate restriction policy: a case study in Hangzhou, China," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 236-241.
+doi: 10.1109/ITSC.2018.8569742
+keywords: {cameras;road traffic;road vehicles;traffic engineering computing;transportation;license plate restriction policy;license number;restricted commuter vehicles;Hangzhou;cars commuting behavior analysis;China;Automobiles;Licenses;Cameras;Urban areas;Indexes;Time-frequency analysis;Public transportation},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569742&isnumber=8569013
+
+Y. Zhou, S. Tang, M. Zhao, W. H. K. Lam, T. N. N. Sze and Y. Chen, "Modeling the Travel Mode Choice for Outpatient Trips Before and After Bike-Sharing in Beijing," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 242-247.
+doi: 10.1109/ITSC.2018.8569248
+keywords: {bicycles;hospitals;scheduling;transportation;Beijing Friendship Hospital;floating bike-sharing system;nonmotorized travel modes;outpatient trips;travel mode choice;outpatient travelers;public hospital outpatient services;outpatient appointments;transportation;Beijing;multinomial logit model;MNL model;online map-usage;walking time;cycling time;household income;Hospitals;Urban areas;Public transportation;Automobiles;Legged locomotion;Laboratories;Government;bike-sharing;outpatient trip;Multinomial Logit Model;survey},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569248&isnumber=8569013
+
+C. Fern¨¢ndez, C. Guindel, N. Salscheider and C. Stiller, "A Deep Analysis of the Existing Datasets for Traffic Light State Recognition," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 248-254.
+doi: 10.1109/ITSC.2018.8569914
+keywords: {computer vision;image classification;image recognition;learning (artificial intelligence);neural nets;road traffic;traffic engineering computing;traffic light state recognition;traffic lights classification;computer vision techniques;traffic light classification;passengers safety;autonomous driving;ResNet architecture;high quality training data;Image color analysis;Cameras;Sensors;Autonomous vehicles;Transforms;Task analysis;traffic light;classification;CNN;datasets},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569914&isnumber=8569013
+
+M. Weber, M. Huber and J. M. Z?llner, "HDTLR: A CNN based Hierarchical Detector for Traffic Lights," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 255-260.
+doi: 10.1109/ITSC.2018.8569794
+keywords: {feedforward neural nets;object detection;road traffic;traffic engineering computing;art traffic light detection systems;hierarchical traffic light detection algorithm;art traffic light detection algorithms;reliable traffic light detection;Autonomous vehicles;Proposals;Training;Feature extraction;Task analysis;Detectors;Urban areas},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569794&isnumber=8569013
+
+O. M. Winzer, A. S. Conti-Kufner and K. Bengler, "Intersection Traffic Light Assistant ¨C An Evaluation of the Suitability of two Human Machine Interfaces," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 261-265.
+doi: 10.1109/ITSC.2018.8569708
+keywords: {driver information systems;human computer interaction;mobile computing;road safety;road traffic;smart phones;user interfaces;traffic flow;urban areas;TLA;driver glance behavior;suitability evaluation;human machine interfaces;intersection traffic light assistant;multimodal interactions;smartphone applications;NHTSA guideline;time 915.0 ms;time 849.0 ms;Urban areas;Time-frequency analysis;Roads;Guidelines;Automobiles;Ergonomics;traffic light assistant;human machine interface;smartphone;driver distraction;glance behavior;suitability},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569708&isnumber=8569013
+
+J. M¨¹ller and K. Dietmayer, "Detecting Traffic Lights by Single Shot Detection," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 266-273.
+doi: 10.1109/ITSC.2018.8569683
+keywords: {convolution;feature extraction;feedforward neural nets;image classification;learning (artificial intelligence);object detection;traffic engineering computing;object detection;hand-crafted features;traffic light bulb;Nvidia Titan Xp;false positive rates;DTLD;classification;deep learning;traffic light detection;single shot detection;CNN;DriveU traffic light dataset;convolutional neural networks;SSD;Proposals;Feature extraction;Image color analysis;Computer architecture;Shape;Real-time systems;IEEE Sections},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569683&isnumber=8569013
+
+A. Gupta and A. Choudhary, "A Framework for Real-time Traffic Sign Detection and Recognition using Grassmann Manifolds," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 274-279.
+doi: 10.1109/ITSC.2018.8569556
+keywords: {driver information systems;image colour analysis;object detection;object recognition;road safety;sign language recognition;traffic engineering computing;real-time framework;moving vehicle;Grassmann manifold based traffic sign recognition framework;unique traffic sign;multiple publicly available traffic sign datasets;real-time traffic sign detection;advanced driver assistance systems;Image color analysis;Manifolds;Real-time systems;Cameras;Lighting;Colored noise;Feature extraction;Traffic sign detection and recognition;intelligent vehicles;machine learning;computer vision},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569556&isnumber=8569013
+
+J. Kim, H. Cho, M. Hwangbo, J. Choi, J. Canny and Y. P. Kwon, "Deep Traffic Light Detection for Self-driving Cars from a Large-scale Dataset," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 280-285.
+doi: 10.1109/ITSC.2018.8569575
+keywords: {image classification;neural nets;road vehicles;traffic information systems;deep traffic light detection;self-driving cars;traffic lights perception problem;autonomous vehicle controllers;deep neural networks;two-step computational method;deep neural object detection architecture;false traffic lights;large-scale traffic lights;self-driving vehicle;true traffic light candidates;Detectors;Neural networks;Spatiotemporal phenomena;Loss measurement;Computer architecture;Feature extraction;Urban areas},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569575&isnumber=8569013
+
+S. M. A. Shabestary and B. Abdulhai, "Deep Learning vs. Discrete Reinforcement Learning for Adaptive Traffic Signal Control," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 286-293.
+doi: 10.1109/ITSC.2018.8569549
+keywords: {feature extraction;intelligent control;learning (artificial intelligence);optimal control;road traffic control;transportation;deep neural networks;deep reinforcement learning;optimal control agent;high-dimensional sensory information;intelligent control methods;signalized intersections;adaptive traffic signal controller;traffic lights;significant infrastructure expansion;environmental constraints;adaptive traffic signal control;conventional discrete reinforcement learning approaches;Urban areas;Delays;Aerospace electronics;Traffic control;Space vehicles;Adaptation models;Deep Reinforcement Learning;Reinforcement Learning;Traffic Signal Control},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569549&isnumber=8569013
+
+C. Luo et al., "A Control Strategy Combined Thermostat Control with DC-Link Voltage Control for Series Hybrid Electric Vehicles," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 294-299.
+doi: 10.1109/ITSC.2018.8570017
+keywords: {fuel economy;hybrid electric vehicles;thermostats;voltage control;combination control schemes;individual control scheme;series HEVs;DC-link voltage control;series hybrid electric vehicles;thermostat control strategy;fuel economy;WLTP;worldwide harmonized light vehicles test procedure;EFC;equivalent fuel consumption;charging operation modes;TCS;control strategy;Hybrid electric vehicles;Voltage control;Tuning;Control systems;Fuel economy;Mechanical power transmission;series hybrid electric vehicles;thermostat control Strategy;DC-link voltage control;tuning;equivalent fuel consumption},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8570017&isnumber=8569013
+
+C. Philippe, L. Adouane, B. Thuilot, A. Tsourdos and H. Shin, "Safe and Online MPC for Managing Safety and Comfort of Autonomous Vehicles in Urban Environment," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 300-306.
+doi: 10.1109/ITSC.2018.8569384
+keywords: {linear systems;mobile robots;navigation;predictive control;road vehicles;trajectory control;autonomous vehicles;urban environment;linear MPC controller design;autonomous cars navigation;lateral control;longitudinal control;MPC cost function;human driving;coarse reference trajectories;safety monitoring module;estimated time;unacceptable situation;tracking performance;current tracking conditions;trajectory smoothness;re-plan safe trajectories;dynamic environments;typical urban scenario;comfort constraints;Trajectory;Computational modeling;Mathematical model;Monitoring;Computer architecture;Safety;Navigation},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569384&isnumber=8569013
+
+A. Ferdowsi, U. Challita, W. Saad and N. B. Mandayam, "Robust Deep Reinforcement Learning for Security and Safety in Autonomous Vehicle Systems," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 307-312.
+doi: 10.1109/ITSC.2018.8569635
+keywords: {control engineering computing;game theory;learning (artificial intelligence);mobile robots;neural nets;safety;security of data;state estimation;data value manipulations;adversarial deep RL algorithm;AV dynamics control;intra-AV spacing deviation;autonomous vehicle systems;cyber-physical attacks;CP attacks;game-theoretic framework;AV sensor readings;inter-vehicle optimal safe spacing;AV accidents;adversarial deep reinforcement learning algorithm;state estimation process;long short term memory;LSTM blocks;Sensors;Heuristic algorithms;Security;Vehicle dynamics;Robustness;Cameras;Radar},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569635&isnumber=8569013
+
+T. Shen, A. Kilic and H. Reuss, "A New System Diagnostic Method for Powertrain of Automated Electric Vehicles," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 313-320.
+doi: 10.1109/ITSC.2018.8569739
+keywords: {electric vehicles;fault diagnosis;power transmission (mechanical);redundancy;sensors;system diagnostic method;automated electric vehicles;powertrain system;structural system analysis theory;fault detection;Matlab;Simulink;Mechanical power transmission;Batteries;Mathematical model;Circuit faults;Electric vehicles;Inverters;Reliability},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569739&isnumber=8569013
+
+C. Reiter, N. Wassiliadis, L. Wildfeuer, T. Wurster and M. Lienkamp, "Range Extension of Electric Vehicles through Improved Battery Capacity Utilization: Potentials, Risks and Strategies," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 321-326.
+doi: 10.1109/ITSC.2018.8569455
+keywords: {battery management systems;battery powered vehicles;secondary cells;lithium-ion battery behavior;battery pack;electric drivetrain;range extension;improved battery capacity utilization;operation strategy;operational limits;power derating;low SOC;battery electric vehicles;battery management;low state-of-charge;selected BEV;Volkswagen e-Golf;Batteries;State of charge;Battery charge measurement;Electric potential;Resistance;Voltage measurement;Aging},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569455&isnumber=8569013
+
+M. Cuchy, M. ?tolba and M. Jakob, "Benefits of Multi-Destination Travel Planning for Electric Vehicles," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 327-332.
+doi: 10.1109/ITSC.2018.8569385
+keywords: {electric vehicle charging;advanced EV travel planning systems;electrical vehicles;multidestination travel planning;charging slots;charging service providers;multidestination approach;EV charging;EV users;Planning;Charging stations;Shortest path problem;Navigation;State of charge;Electric vehicle charging},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569385&isnumber=8569013
+
+S. Krishnan, R. Govind Aadithya, R. Ramakrishnan, V. Arvindh and K. Sivanathan, "A Look at Motion Planning for AVs at an Intersection," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 333-340.
+doi: 10.1109/ITSC.2018.8569244
+keywords: {mobile robots;navigation;path planning;road traffic control;road vehicles;trajectory control;motion planning;trajectory planning;autonomous intersection;autonomous vehicles;autonomous navigation;intersection management algorithms;Trajectory;Planning;Vehicle dynamics;Collision avoidance;Mobile robots;Optimization;Kinematics},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569244&isnumber=8569013
+
+P. Emami, M. Pourmehrab, M. Martin-Gasulla, S. Ranka and L. Elefteriadou, "A Comparison of Intelligent Signalized Intersection Controllers Under Mixed Traffic," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 341-348.
+doi: 10.1109/ITSC.2018.8569939
+keywords: {intelligent control;road traffic control;road vehicles;automated vehicle technology;traffic streams;traffic signal control systems;quantitative comparison;qualitative comparison;IICA;real-time sensors;traffic cameras;vehicle-to-infrastructure communication;signalized intersections;conventional vehicles;traffic scenarios;CAV penetration rates;lowest travel times;intelligent intersection control algorithm;hybrid autonomous intersection management system;intelligent signal control systems;intelligent signalized intersection controllers;Trajectory;Real-time systems;Green products;Sensors;Throughput},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569939&isnumber=8569013
+
+G. De Nunzio, A. Sciarretta, I. Ben Gharbia and L. L. Ojeda, "A Constrained Eco-Routing Strategy for Hybrid Electric Vehicles Based on Semi-Analytical Energy Management," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 355-361.
+doi: 10.1109/ITSC.2018.8569835
+keywords: {energy management systems;fuel economy;hybrid electric vehicles;power transmission (mechanical);road traffic;predictive information;upcoming route;fuel consumption;electrical power;topological traffic information;simple predictive speed model;semianalytical solution;desired trade-off between fuel economy;modeling complexity;novel road network model;feasible battery charge variation;road segment level;constrained SPP;constrained eco-routing strategy;hybrid electric vehicles;semianalytical energy management;modern navigation;traffic information systems;standard powertrain energy management;HEV;Engines;Energy management;Roads;State of charge;Fuels;Electric motors;Batteries;Hybrid electric vehicles;energy management;Pontryagin's minimum principle;constrained shortest path},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569835&isnumber=8569013
+
+H. Suzuki and Y. Marumo, "A New Approach to Green Light Optimal Speed Advisory (GLOSA) Systems for High-Density Traffic Flowe," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 362-367.
+doi: 10.1109/ITSC.2018.8569394
+keywords: {road traffic control;green light optimal speed advisory system;green signal time;high-density traffic conditions;traffic simulations;green planar rectangle shape;traffic flow characteristics;traffic light;driving advisory system;traffic more energy efficient;appropriate driver behavior patterns;autonomous vehicles;vehicle-to-infrastructure;vehicle-to-vehicle;high-density traffic flowe;Vehicles;Acceleration;Green products;Air pollution;Resistance;Fuels;Roads},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569394&isnumber=8569013
+
+X. Kuang, F. Zhao, H. Hao and Z. Liu, "Intelligent Vehicles' Effects on Chinese Traffic: A Simulation Study of Cooperative Adaptive Cruise Control and Intelligent Speed Adaption," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 368-373.
+doi: 10.1109/ITSC.2018.8569431
+keywords: {adaptive control;road safety;road traffic;road vehicles;traffic efficiency;highway;rural traffic;parallel microscopic traffic simulations;Chinese contexts;intelligent vehicle technologies;travel time;travel speed;urban traffic;technological effects;simulation results;Chinese traffic;intelligent vehicles;cooperative adaptive cruise control;intelligent speed adaption;Roads;Urban areas;Automotive engineering;Data models;Acceleration;Context modeling;Chinese traffic;cooperative adaptive cruise control;intelligent speed adaption;travel time;travel speed;simulation study},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569431&isnumber=8569013
+
+M. Bashiri, H. Jafarzadeh and C. H. Fleming, "PAIM: Platoon-based Autonomous Intersection Management," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 374-380.
+doi: 10.1109/ITSC.2018.8569782
+keywords: {greedy algorithms;minimisation;mobile robots;road safety;road traffic control;road vehicles;scheduling;stop-sign based policies;reservation-based policy;autonomous ground vehicles;greedy algorithm;cooperative intersection management;cost function minimization;PAIM;platoon-based autonomous intersection management;autonomous traffic management;intelligent transportation systems;Mathematical model;Delays;Safety;Vehicle dynamics;Roads;Fuels;Trajectory;Intelligent Transportation Systems;Autonomous Vehicles;Cooperative Intersection Management;Cooperative Adaptive Cruise Control},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569782&isnumber=8569013
+
+M. Nolte, N. Kister and M. Maurer, "Assessment of Deep Convolutional Neural Networks for Road Surface Classification," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 381-386.
+doi: 10.1109/ITSC.2018.8569396
+keywords: {convolution;feedforward neural nets;friction;image classification;road vehicles;roads;tyres;vehicle dynamics;road friction estimation;road surface classification;trajectory control;road-tire friction coefficient;deep convolutional neural networks;vehicle control algorithms;stability;parametrization;classifier;model parameter;Roads;Training;Asphalt;Friction;Estimation;Training data;Task analysis},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569396&isnumber=8569013
+
+P. Amayo, T. Bruls and P. Newm
