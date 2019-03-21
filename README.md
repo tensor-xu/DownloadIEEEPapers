@@ -3,11 +3,15 @@
 
 
 该项目用于自动下载IEEE会议论文，并非免费下载论文，需要使用者拥有IEEE账户或者使用大学免费提供的具有下载权限的网络。
-以下说明以IEEE ITSC2018 会议论文下载为例。
+以IEEE ITSC2018 会议论文下载为例。
+
+This project is used to automatically download IEEE conference papers, but you need an IEEE account or a university network with download permission. 
+Take downloading IEEE ITSC2018 conference papers as an example.
 
 
-## url文件说明 ##
-url文件记录的每个论文的编号信息，其格式如下，具体可参考工程目录里面的url.txt文件：
+## url文件说明 / The description of *url.txt* ##
+url文件记录的每个论文的编号信息，其格式如下，具体可参考工程目录里面的*url.txt*文件：
+The url.txt records the numbering information of each papers as the following format, you can refer to the url.txt we provided :
 ```bash
 A. Ghazizadeh and P. Ghazizadeh, "Design and Analysis of a Communication Protocol for Dynamic Vehicular Clouds in Smart Cities," 2018 21st International Conference on Intelligent Transportation Systems (ITSC), Maui, HI, 2018, pp. 1-6.
 doi: 10.1109/ITSC.2018.8569990
@@ -28,14 +32,16 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569755&isnumber=85
 ```
 
 
-## 准备你的url文件 ##
+## 准备你的url文件 / Prepare your *url.txt* ##
 在相应的会议页面导出url信息，粘贴为一个新的url文件。
-
+Export the url information in the corresponding conference page as a new *url.txt*.
 ![](./figure/2.jpg)
 
 
 ## 运行 ##
 将python文件与url文件放置在同一个目录下面，运行python文件即可， **需要连接有下载权限的网络**。
 论文下载完成，如下：
+
+Make sure that the *.py* is placed in the same directory as *url.txt*, then just run *.py.*  **Connect to a network with download  permission.**  The results are as follows:
 
 ![](./figure/1.jpg)
